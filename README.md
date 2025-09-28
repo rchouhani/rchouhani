@@ -13,7 +13,7 @@
 - 🤞 My projects in the future, are :                                                                                                          
       - Keep Learning all the time (Java, Cobol, GoLang for example)                                                        
       - Find a job in a compassionate team                                                       
-      - Doing some real projects
+      - Doing some real projects that make sense
   
 - 💞️ I’m looking to collaborate on associations to help and keep learning.
   
@@ -23,7 +23,7 @@
   
 - ⚡ Fun fact: You'll see, maybe, during a meet up or interview 📞.
   
-- 😅 If there’s a hackathon or meetup I don’t know about, feel free to invite me!
+- 😅 If there’s a hackathon or meetup I don’t know about, feel free to invite me! Don't forget to say Hakuna Matata in your communication !!!
 
 <!---
 rchouhani/rchouhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
