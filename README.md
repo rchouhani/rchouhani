@@ -14,6 +14,8 @@
       - Keep Learning all the time (Java, Cobol, GoLang for example)                                                        
       - Find a job in a compassionate team                                                       
       - Doing some real projects that make sense
+
+- You can watch them [https://romainchouhani.vercel.app]
   
 - 💞️ I’m looking to collaborate on associations to help and keep learning.
   
